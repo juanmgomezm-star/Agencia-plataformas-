@@ -5,6 +5,7 @@ public class Reserva{
     String vuelo;
     String hotel;
     String cuartos;
+    String cuartos2;
 
     void crear(int id, String usuario, String vuelo, String hotel) {
         this.id = id;
